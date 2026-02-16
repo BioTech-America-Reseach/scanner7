@@ -1,0 +1,7 @@
+{
+  "name": "V8 Pro - Full Body Scan",
+  "description": "An advanced bio-magnetic scanning application for health and spiritual assessment using futuristic UI and real-time processing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
